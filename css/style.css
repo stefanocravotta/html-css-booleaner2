@@ -1,0 +1,71 @@
+
+body{
+  margin: 0;
+  }
+  
+  
+  main{
+    padding: 80px;
+    text-align: center;
+
+  }
+  
+  footer{
+    text-align: center;
+    
+  }
+  
+  .logo{
+    height: 30px;
+    margin-top: 70px;
+  }
+  
+  header{
+    background-image: url(../img/pattern.png);
+    background-size: contain;
+    background-color: rgb(82, 162, 252);  
+  }
+  
+  
+  #azzurro{
+    color: rgb(75, 188, 232);
+  }
+  
+  .grigio-chiaro{
+    color: rgb(140, 140, 140);
+  }
+  
+  .testo-evidenziato{
+    background-color: yellow;
+  }
+  
+  .grande{
+    width: 50%;
+  }
+  
+  thead{
+    background-color: rgb(44, 170, 226);
+  }
+  
+  .azzurro{
+    background-color:  rgb(179, 229, 241);
+  }
+  .img{
+    margin: auto;
+    height: 200px;
+    width: 300px;
+    background-image: url(../img/monitor.jpg);
+    background-size: cover;
+  }
+  .img2{
+    margin: auto;
+    height: 200px;
+    width: 300px;
+    background-image: url(../img/graph.jpg);
+    background-size: cover;
+  }
+  
+  footer>div{
+    color: white;
+    font-size: 2rem;
+  }
